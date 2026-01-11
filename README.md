@@ -20,7 +20,7 @@ The project is deeply personal to me: I come from a family with a strong history
    - **Descriptive Statistics:** Examined smoking prevalence and patient demographics.
    - **Correlation Analysis:** Explored the association between smoking and intervention type, and age and intervention type.
    - **Trend Analysis:** Investigated how cardiovascular treatments have shifted over decades, from invasive bypass surgeries to minimally invasive stents, and increasing preventive and pharmacological approaches.
-   - **Predictive Modeling:** Conceptually explored how risk factors like age, blood pressure, cholesterol, and smoking status influence treatment type, using a multinomial logistic regression framework.
+   - **Predictive Modeling:** Conceptually explored how risk factors like age, blood pressure, cholesterol, and smoking status influence treatment type.
 
 4. **Interpretation**
    - Patterns were interpreted using tables and conceptual reasoning, linking risk factors to intervention intensity and highlighting the evolution of care over time.
