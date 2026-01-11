@@ -1,0 +1,16 @@
+year,treatment_category,specific_intervention,trend_direction,driver,clinical_focus,notes
+2000,Pharmacological,Statins,Increasing,LDL-risk evidence,Primary prevention,Became standard of care
+2003,Pharmacological,ACE inhibitors,Increasing,Heart failure outcomes,Blood pressure control,Widely prescribed
+2005,Interventional,Balloon angioplasty,Stable,Existing infrastructure,Coronary artery disease,Gradually replaced by stents
+2008,Interventional,Drug-eluting stents,Increasing,Reduced restenosis,Coronary revascularization,Improved long-term patency
+2010,Pharmacological,Beta blockers,Stable,Post-MI protocols,Arrhythmia control,Still guideline-based
+2012,Pharmacological,Antiplatelet therapy (dual),Increasing,Stroke & MI prevention,Thrombosis management,Standard after PCI
+2014,Surgical,Coronary artery bypass grafting (CABG),Decreasing,Less invasive alternatives,Severe CAD,Reserved for complex cases
+2016,Digital Health,Wearable heart monitors,Increasing,Consumer tech boom,Arrhythmia detection,Early AF detection
+2018,Minimally Invasive,Transcatheter aortic valve replacement (TAVR),Increasing,Aging population,Valvular disease,Alternative to open surgery
+2020,Pharmacological,PCSK9 inhibitors,Increasing,Statin resistance,Cholesterol management,High-cost but effective
+2021,Telemedicine,Remote cardiac rehabilitation,Increasing,COVID-19 impact,Post-cardiac recovery,Expanded access
+2022,Digital Health,AI-based ECG analysis,Increasing,ML adoption,Early diagnosis,Clinical decision support
+2023,Preventive Care,Lifestyle-based intervention programs,Increasing,Public health focus,Primary prevention,Exercise + diet emphasis
+2024,Personalized Medicine,Genotype-guided therapy,Emerging,Precision medicine,CVD risk stratification,Still research-heavy
+2025,Hybrid Care,AI-assisted treatment planning,Emerging,Data integration,Clinical optimization,Human-in-the-loop systems
