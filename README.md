@@ -1,4 +1,3 @@
-# Smoking-Cardiovascular-Risk-Analysis
 # Cardiovascular Treatment Evolution & Smoking: A Personal Data Analysis Project
 
 ## Summary
@@ -8,7 +7,7 @@ The project is deeply personal to me: I come from a family with a strong history
 
 ---
 
-## Methods
+## Method
 1. **Data Collection**
    - Three publicly available cardiovascular datasets were obtained. These include patient-level information such as age, sex, blood pressure, cholesterol, smoking status, and treatment outcomes.
 
@@ -21,7 +20,7 @@ The project is deeply personal to me: I come from a family with a strong history
    - **Descriptive Statistics:** Examined smoking prevalence and patient demographics.
    - **Correlation Analysis:** Explored the association between smoking and intervention type, and age and intervention type.
    - **Trend Analysis:** Investigated how cardiovascular treatments have shifted over decades, from invasive bypass surgeries to minimally invasive stents, and increasing preventive and pharmacological approaches.
-   - **Predictive Modeling (Theory):** Conceptually explored how risk factors like age, blood pressure, cholesterol, and smoking status influence treatment type, using a multinomial logistic regression framework.
+   - **Predictive Modeling:** Conceptually explored how risk factors like age, blood pressure, cholesterol, and smoking status influence treatment type, using a multinomial logistic regression framework.
 
 4. **Interpretation**
    - Patterns were interpreted using tables and conceptual reasoning, linking risk factors to intervention intensity and highlighting the evolution of care over time.
@@ -33,13 +32,9 @@ The project is deeply personal to me: I come from a family with a strong history
 - **Treatment Evolution:** Over the decades, surgical bypass procedures have declined in frequency, replaced by less invasive interventions such as stents. Pharmacological and preventive strategies have also increased in prominence.
 - **Family Connection:** The patterns in the datasets reflect what I’ve personally observed in my family: treatment has become less invasive and more targeted, aligning with individual risk profiles.
 - **Preventive Potential:** Early identification of risk factors like high blood pressure and smoking can reduce the need for invasive procedures, emphasizing the importance of preventive care.
-
 ---
 
-## Personal Link & Motivation
-This project is more than a data exercise; it’s a reflection of my family history. Observing the stark contrast between my grandfather’s extensive bypass surgery and my father’s painless stent procedure raised questions that data can help answer: how does lifestyle, risk factors, and medical progress shape cardiovascular outcomes?  
-
-By analyzing these trends, I’m connecting personal curiosity to real-world evidence, turning a family health history into an analytical exploration that reflects both my interests and my lived experience.
+*This project demonstrates how personal curiosity can drive independent research, linking family health experiences to broader patterns in cardiovascular care.*
 
 ---
 
