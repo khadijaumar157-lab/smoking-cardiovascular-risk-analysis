@@ -1,0 +1,21 @@
+patient_id,age_years,sex,systolic_bp,diastolic_bp,cholesterol_level,smoking_status,treatment_type,intervention_category,cardiovascular_outcome,data_source
+P001,63,Male,145,90,233,Non-smoker,Medical therapy,Pharmacological,No event,Heart Disease UCI
+P002,67,Male,160,95,286,Non-smoker,Coronary stent,Interventional,Recurrent symptoms,Heart Disease UCI
+P003,67,Male,120,80,229,Smoker,Coronary stent,Interventional,Improved,Heart Disease UCI
+P004,37,Male,130,85,250,Non-smoker,Lifestyle management,Preventive,No event,Heart Disease UCI
+P005,41,Female,130,80,204,Non-smoker,Lifestyle management,Preventive,No event,Heart Disease UCI
+P006,56,Male,120,80,236,Non-smoker,Medical therapy,Pharmacological,Improved,Heart Disease UCI
+P007,62,Female,140,90,268,Non-smoker,Coronary bypass surgery,Surgical,Complications,Heart Disease UCI
+P008,57,Female,120,80,354,Non-smoker,Medical therapy,Pharmacological,Improved,Heart Disease UCI
+P009,63,Male,130,85,254,Non-smoker,Coronary stent,Interventional,Recurrent symptoms,Heart Disease UCI
+P010,53,Male,140,90,203,Smoker,Coronary stent,Interventional,Improved,Heart Disease UCI
+P011,55,Male,150,90,197,Smoker,Medical therapy,Pharmacological,Improved,Cardiovascular Health
+P012,60,Female,130,85,230,Non-smoker,Lifestyle management,Preventive,No event,Cardiovascular Health
+P013,45,Male,150,95,260,Smoker,Coronary stent,Interventional,Improved,Cardiovascular Health
+P014,64,Female,140,90,280,Non-smoker,Medical therapy,Pharmacological,Stable,Cardiovascular Health
+P015,59,Male,170,100,300,Smoker,Coronary bypass surgery,Surgical,Major event,Cardiovascular Health
+P016,52,Female,120,80,220,Non-smoker,Lifestyle management,Preventive,No event,Cardiovascular Health
+P017,68,Male,160,95,290,Smoker,Coronary stent,Interventional,Recurrent symptoms,Cardiovascular Health
+P018,50,Male,130,85,210,Non-smoker,Medical therapy,Pharmacological,Improved,Cardiovascular Health
+P019,71,Female,150,90,302,Non-smoker,Medical therapy,Pharmacological,Stable,Cardiovascular Health
+P020,58,Male,140,90,275,Smoker,Coronary stent,Interventional,Improved,Combined Sources
